@@ -1,0 +1,7 @@
+{
+  "name": "Bible Voice Assistant",
+  "description": "A conversational AI assistant powered by Gemini 2.5 Native Audio for biblical exploration and study scheduling on a dedicated calendar.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
